@@ -1,0 +1,33 @@
+
+.mortensmenu{
+  background-color: rgb(118, 200, 194);
+  display: flex;
+  justify-content: space-around;
+  padding: 2.5% 0;
+}
+
+h1{
+  text-align: center;
+  background-color: rgb(11, 102, 78);
+  padding: 3% 0;
+}
+
+.maincontent{
+  display: flex;
+  width: 100%;
+  height: 55vh;
+  background-color: blue;
+}
+
+.maincontent div{
+  width: 100%;
+  height: 100%;
+  background-color: rgb(118, 200, 194);
+  padding: 1%;
+}
+
+h2{
+  text-align: center;
+  background-color: rgb(11, 102, 78);
+  padding: 2% 0;
+}
